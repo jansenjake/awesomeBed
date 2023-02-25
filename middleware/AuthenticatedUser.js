@@ -34,3 +34,4 @@ function verifyAToken(req, res, next) {
     }
 }
 module.exports= {createToken, verifyAToken};
+
